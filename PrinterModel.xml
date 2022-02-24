@@ -644,7 +644,6 @@
     <Label_Height_Max>1727</Label_Height_Max>
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
-	<Stop>1</Stop>
   </PrinterModel>
   <PrinterModel ID="EZ130">
     <Resolution>300</Resolution>
@@ -671,7 +670,6 @@
     <Label_Height_Max>762</Label_Height_Max>
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
-	<Stop>1</Stop>
   </PrinterModel>
   <PrinterModel ID="EZ320">
     <Resolution>203</Resolution>
