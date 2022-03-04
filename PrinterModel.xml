@@ -1763,7 +1763,7 @@
     <Darkness>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</Darkness>
     <DarknessDefault>8</DarknessDefault>
     <Speed>2,3,4,5,6</Speed>
-    <SpeedDefault>8</SpeedDefault>
+    <SpeedDefault>3</SpeedDefault>
     <USB>1</USB>
     <COM>1</COM>
     <Network>1</Network>
@@ -1775,7 +1775,7 @@
     <StopPosition>16</StopPosition>
     <Cutter>1</Cutter>
     <CloudFW>2</CloudFW>
-    <LCD>1</LCD>
+    <LCD>0</LCD>
     <Label_Width_Min>4</Label_Width_Min>
     <Label_Width_Max>108</Label_Width_Max>
     <Label_Height_Min>4</Label_Height_Min>
@@ -1792,7 +1792,7 @@
     <Darkness>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</Darkness>
     <DarknessDefault>8</DarknessDefault>
     <Speed>2,3,4</Speed>
-    <SpeedDefault>6</SpeedDefault>
+    <SpeedDefault>3</SpeedDefault>
     <USB>1</USB>
     <COM>1</COM>
     <Network>1</Network>
@@ -1804,7 +1804,7 @@
     <StopPosition>16</StopPosition>
     <Cutter>1</Cutter>
     <CloudFW>2</CloudFW>
-    <LCD>1</LCD>
+    <LCD>0</LCD>
     <Label_Width_Min>4</Label_Width_Min>
     <Label_Width_Max>106</Label_Width_Max>
     <Label_Height_Min>4</Label_Height_Min>
