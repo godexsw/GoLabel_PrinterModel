@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <PrinterModelList>
   <PrinterModel ID="BP500L">
     <Resolution>203</Resolution>
@@ -1179,6 +1179,7 @@
     <Label_Margin_L>3</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <PaperLeftAlign>1</PaperLeftAlign>
+	<Rewinder>1</Rewinder>
   </PrinterModel>
   <PrinterModel ID="EZ-2300">
     <Resolution>300</Resolution>
@@ -1262,6 +1263,7 @@
     <Label_Margin_L>2</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <PaperLeftAlign>1</PaperLeftAlign>
+	<Rewinder>1</Rewinder>
   </PrinterModel>
   <PrinterModel ID="EZ-6200+">
     <Resolution>203</Resolution>
@@ -1289,6 +1291,7 @@
     <Label_Margin_L>3</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <PaperLeftAlign>1</PaperLeftAlign>
+	<Rewinder>1</Rewinder>
 	<Stop>1</Stop>
   </PrinterModel>
   <PrinterModel ID="EZ-6300+">
@@ -1317,6 +1320,7 @@
     <Label_Margin_L>3</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <PaperLeftAlign>1</PaperLeftAlign>
+	<Rewinder>1</Rewinder>
 	<Stop>1</Stop>
   </PrinterModel>
   <PrinterModel ID="EZ-DT-2">
@@ -1453,6 +1457,7 @@
     <Label_Margin_L>3</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <PaperLeftAlign>1</PaperLeftAlign>
+	<Rewinder>1</Rewinder>
   </PrinterModel>
   <PrinterModel ID="EZ6350i">
     <Resolution>300</Resolution>
@@ -1480,6 +1485,7 @@
     <Label_Margin_L>3</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <PaperLeftAlign>1</PaperLeftAlign>
+	<Rewinder>1</Rewinder>
   </PrinterModel>
   <PrinterModel ID="G300">
     <Resolution>203</Resolution>
@@ -1751,6 +1757,64 @@
     <PaperLeftAlign>1</PaperLeftAlign>
     <WiFi>1</WiFi>
   </PrinterModel>
+  <PrinterModel ID="GM620">
+    <Resolution>203</Resolution>
+    <ResolutionDefault>203</ResolutionDefault>
+    <Darkness>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</Darkness>
+    <DarknessDefault>8</DarknessDefault>
+    <Speed>2,3,4,5,6</Speed>
+    <SpeedDefault>8</SpeedDefault>
+    <USB>1</USB>
+    <COM>1</COM>
+    <Network>1</Network>
+    <LPT>0</LPT>
+    <Driver>1</Driver>
+    <PrinterMode>1</PrinterMode>
+    <UseApplicator>0</UseApplicator>
+    <UseDispenser>1</UseDispenser>
+    <StopPosition>16</StopPosition>
+    <Cutter>1</Cutter>
+    <CloudFW>2</CloudFW>
+    <LCD>1</LCD>
+    <Label_Width_Min>4</Label_Width_Min>
+    <Label_Width_Max>108</Label_Width_Max>
+    <Label_Height_Min>4</Label_Height_Min>
+    <Label_Height_Max>1727</Label_Height_Max>
+    <Label_Margin_L>0</Label_Margin_L>
+    <Label_Margin_T>0</Label_Margin_T>
+    <PaperLeftAlign>0</PaperLeftAlign>
+    <WiFi>1</WiFi>
+    <Rewinder>1</Rewinder>
+  </PrinterModel>
+  <PrinterModel ID="GM630">
+    <Resolution>300</Resolution>
+    <ResolutionDefault>300</ResolutionDefault>
+    <Darkness>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</Darkness>
+    <DarknessDefault>8</DarknessDefault>
+    <Speed>2,3,4</Speed>
+    <SpeedDefault>6</SpeedDefault>
+    <USB>1</USB>
+    <COM>1</COM>
+    <Network>1</Network>
+    <LPT>0</LPT>
+    <Driver>1</Driver>
+    <PrinterMode>1</PrinterMode>
+    <UseApplicator>0</UseApplicator>
+    <UseDispenser>1</UseDispenser>
+    <StopPosition>16</StopPosition>
+    <Cutter>1</Cutter>
+    <CloudFW>2</CloudFW>
+    <LCD>1</LCD>
+    <Label_Width_Min>4</Label_Width_Min>
+    <Label_Width_Max>106</Label_Width_Max>
+    <Label_Height_Min>4</Label_Height_Min>
+    <Label_Height_Max>762</Label_Height_Max>
+    <Label_Margin_L>0</Label_Margin_L>
+    <Label_Margin_T>0</Label_Margin_T>
+    <PaperLeftAlign>0</PaperLeftAlign>
+    <WiFi>1</WiFi>
+    <Rewinder>1</Rewinder>
+  </PrinterModel>
   <PrinterModel ID="GX4200i">
     <Resolution>203</Resolution>
     <ResolutionDefault>203</ResolutionDefault>
@@ -1778,6 +1842,7 @@
     <Label_Margin_T>0</Label_Margin_T>
     <PaperLeftAlign>1</PaperLeftAlign>
     <WiFi>1</WiFi>
+	<Rewinder>1</Rewinder>
   </PrinterModel>
   <PrinterModel ID="GX4300i">
     <Resolution>300</Resolution>
@@ -1806,6 +1871,7 @@
     <Label_Margin_T>0</Label_Margin_T>
     <PaperLeftAlign>1</PaperLeftAlign>
     <WiFi>1</WiFi>
+	<Rewinder>1</Rewinder>
   </PrinterModel>
   <PrinterModel ID="GX4600i">
     <Resolution>600</Resolution>
@@ -1834,6 +1900,7 @@
     <Label_Margin_T>0</Label_Margin_T>
     <PaperLeftAlign>1</PaperLeftAlign>
     <WiFi>1</WiFi>
+	<Rewinder>1</Rewinder>
   </PrinterModel>
   <PrinterModel ID="HD820i">
     <Resolution>203</Resolution>
@@ -2639,6 +2706,7 @@
     <Label_Margin_T>0</Label_Margin_T>
     <PaperLeftAlign>1</PaperLeftAlign>
     <WiFi>1</WiFi>
+	<Rewinder>1</Rewinder>
   </PrinterModel>
   <PrinterModel ID="ZX1200Xi">
     <Resolution>203</Resolution>
@@ -2695,6 +2763,7 @@
     <Label_Margin_T>0</Label_Margin_T>
     <PaperLeftAlign>1</PaperLeftAlign>
     <WiFi>1</WiFi>
+	<Rewinder>1</Rewinder>
   </PrinterModel>
   <PrinterModel ID="ZX1300Xi">
     <Resolution>300</Resolution>
@@ -2751,6 +2820,7 @@
     <Label_Margin_T>0</Label_Margin_T>
     <PaperLeftAlign>1</PaperLeftAlign>
     <WiFi>1</WiFi>
+	<Rewinder>1</Rewinder>
   </PrinterModel>
   <PrinterModel ID="ZA12X">
     <Resolution>203</Resolution>
