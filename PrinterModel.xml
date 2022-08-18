@@ -1923,7 +1923,7 @@
     <LCD>1</LCD>
     <Label_Width_Min>4</Label_Width_Min>
     <Label_Width_Max>219</Label_Width_Max>
-    <Label_Height_Min>10</Label_Height_Min>
+    <Label_Height_Min>5</Label_Height_Min>
     <Label_Height_Max>2286</Label_Height_Max>
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
@@ -1950,7 +1950,7 @@
     <LCD>1</LCD>
     <Label_Width_Min>4</Label_Width_Min>
     <Label_Width_Max>219</Label_Width_Max>
-    <Label_Height_Min>10</Label_Height_Min>
+    <Label_Height_Min>5</Label_Height_Min>
     <Label_Height_Max>1016</Label_Height_Max>
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
