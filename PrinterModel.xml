@@ -3942,6 +3942,7 @@
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>2</WiFi>
+    <BuiltInTTF>1</BuiltInTTF>
   </PrinterModel>
   <PrinterModel ID="MX30+(L)">
     <Resolution>203</Resolution>
@@ -3969,6 +3970,7 @@
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>2</WiFi>
+    <BuiltInTTF>1</BuiltInTTF>
   </PrinterModel>
   <PrinterModel ID="MX30L+">
     <Resolution>203</Resolution>
@@ -3996,6 +3998,7 @@
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>2</WiFi>
+    <BuiltInTTF>1</BuiltInTTF>
   </PrinterModel>
   <PrinterModel ID="MX30L+(L)">
     <Resolution>203</Resolution>
@@ -4023,5 +4026,6 @@
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>2</WiFi>
+    <BuiltInTTF>1</BuiltInTTF>
   </PrinterModel>
 </PrinterModelList>
