@@ -1788,9 +1788,39 @@
     <PaperLeftAlign>1</PaperLeftAlign>
     <WiFi>1</WiFi>
   </PrinterModel>
-  <PrinterModel ID="GM620">
+  <PrinterModel ID="GM620 Pro">
     <Resolution>203</Resolution>
     <ResolutionDefault>203</ResolutionDefault>
+    <Darkness>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</Darkness>
+    <DarknessDefault>8</DarknessDefault>
+    <Speed>2,3,4,5,6,7,8</Speed>
+    <SpeedDefault>3</SpeedDefault>
+    <USB>1</USB>
+    <COM>1</COM>
+    <Network>1</Network>
+    <LPT>0</LPT>
+    <Driver>1</Driver>
+    <PrinterMode>1</PrinterMode>
+    <UseApplicator>0</UseApplicator>
+    <UseDispenser>1</UseDispenser>
+    <StopPosition>16</StopPosition>
+    <Cutter>1</Cutter>
+    <CloudFW>2</CloudFW>
+    <LCD>0</LCD>
+    <Label_Width_Min>4</Label_Width_Min>
+    <Label_Width_Max>108</Label_Width_Max>
+    <Label_Height_Min>3</Label_Height_Min>
+    <Label_Height_Max>10160</Label_Height_Max>
+    <Label_Margin_L>0</Label_Margin_L>
+    <Label_Margin_T>0</Label_Margin_T>
+    <PaperLeftAlign>0</PaperLeftAlign>
+    <WiFi>1</WiFi>
+    <Rewinder>1</Rewinder>
+	<BuiltInTTF>1</BuiltInTTF>
+  </PrinterModel>
+  <PrinterModel ID="GM630 Pro">
+    <Resolution>300</Resolution>
+    <ResolutionDefault>300</ResolutionDefault>
     <Darkness>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</Darkness>
     <DarknessDefault>8</DarknessDefault>
     <Speed>2,3,4,5,6</Speed>
@@ -1808,9 +1838,9 @@
     <CloudFW>2</CloudFW>
     <LCD>0</LCD>
     <Label_Width_Min>4</Label_Width_Min>
-    <Label_Width_Max>108</Label_Width_Max>
+    <Label_Width_Max>106</Label_Width_Max>
     <Label_Height_Min>3</Label_Height_Min>
-    <Label_Height_Max>1727</Label_Height_Max>
+    <Label_Height_Max>8890</Label_Height_Max>
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <PaperLeftAlign>0</PaperLeftAlign>
@@ -1818,9 +1848,9 @@
     <Rewinder>1</Rewinder>
 	<BuiltInTTF>1</BuiltInTTF>
   </PrinterModel>
-  <PrinterModel ID="GM630">
-    <Resolution>300</Resolution>
-    <ResolutionDefault>300</ResolutionDefault>
+  <PrinterModel ID="GM660 Pro">
+    <Resolution>600</Resolution>
+    <ResolutionDefault>600</ResolutionDefault>
     <Darkness>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</Darkness>
     <DarknessDefault>8</DarknessDefault>
     <Speed>2,3,4</Speed>
@@ -1840,7 +1870,7 @@
     <Label_Width_Min>4</Label_Width_Min>
     <Label_Width_Max>106</Label_Width_Max>
     <Label_Height_Min>3</Label_Height_Min>
-    <Label_Height_Max>762</Label_Height_Max>
+    <Label_Height_Max>2540</Label_Height_Max>
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <PaperLeftAlign>0</PaperLeftAlign>
@@ -2069,7 +2099,7 @@
     <Driver>1</Driver>
     <PrinterMode>1</PrinterMode>
     <UseApplicator>0</UseApplicator>
-    <UseDispenser>1</UseDispenser>
+    <UseDispenser>0</UseDispenser>
     <StopPosition>12</StopPosition>
     <Cutter>1</Cutter>
     <CloudFW>1</CloudFW>
@@ -2187,6 +2217,7 @@
     <Label_Height_Max>1727</Label_Height_Max>
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
+	<WiFi>1</WiFi>
   </PrinterModel>
   <PrinterModel ID="RT200i">
     <Resolution>203</Resolution>
@@ -2213,6 +2244,7 @@
     <Label_Height_Max>1727</Label_Height_Max>
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
+	<WiFi>1</WiFi>
   </PrinterModel>
   <PrinterModel ID="RT230">
     <Resolution>300</Resolution>
@@ -2239,6 +2271,7 @@
     <Label_Height_Max>762</Label_Height_Max>
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
+	<WiFi>1</WiFi>
   </PrinterModel>
   <PrinterModel ID="RT230i">
     <Resolution>300</Resolution>
@@ -2265,6 +2298,7 @@
     <Label_Height_Max>762</Label_Height_Max>
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
+	<WiFi>1</WiFi>
   </PrinterModel>
   <PrinterModel ID="RT700">
     <Resolution>203</Resolution>
@@ -2652,7 +2686,7 @@
     <USB>1</USB>
     <COM>1</COM>
     <Network>1</Network>
-    <LPT>1</LPT>
+    <LPT>0</LPT>
     <Driver>1</Driver>
     <PrinterMode>1</PrinterMode>
     <UseApplicator>0</UseApplicator>
@@ -2707,7 +2741,7 @@
     <USB>1</USB>
     <COM>1</COM>
     <Network>1</Network>
-    <LPT>1</LPT>
+    <LPT>0</LPT>
     <Driver>1</Driver>
     <PrinterMode>1</PrinterMode>
     <UseApplicator>0</UseApplicator>
@@ -2790,7 +2824,7 @@
     <USB>1</USB>
     <COM>1</COM>
     <Network>1</Network>
-    <LPT>1</LPT>
+    <LPT>0</LPT>
     <Driver>1</Driver>
     <PrinterMode>1</PrinterMode>
     <UseApplicator>0</UseApplicator>
@@ -3466,7 +3500,7 @@
     <Driver>1</Driver>
     <PrinterMode>1</PrinterMode>
     <UseApplicator>0</UseApplicator>
-    <UseDispenser>1</UseDispenser>
+    <UseDispenser>0</UseDispenser>
     <StopPosition>12</StopPosition>
     <Cutter>1</Cutter>
     <CloudFW>1</CloudFW>
@@ -3475,6 +3509,34 @@
     <Label_Width_Max>220</Label_Width_Max>
     <Label_Height_Min>3</Label_Height_Min>
     <Label_Height_Max>1500</Label_Height_Max>
+    <Label_Margin_L>0</Label_Margin_L>
+    <Label_Margin_T>0</Label_Margin_T>
+    <WiFi>1</WiFi>
+	<BuiltInTTF>1</BuiltInTTF>
+  </PrinterModel>
+  <PrinterModel ID="HD830i Pro">
+    <Resolution>300</Resolution>
+    <ResolutionDefault>300</ResolutionDefault>
+    <Darkness>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</Darkness>
+    <DarknessDefault>8</DarknessDefault>
+    <Speed>2,3,4,5</Speed>
+    <SpeedDefault>3</SpeedDefault>
+    <USB>1</USB>
+    <COM>1</COM>
+    <Network>1</Network>
+    <LPT>1</LPT>
+    <Driver>1</Driver>
+    <PrinterMode>1</PrinterMode>
+    <UseApplicator>0</UseApplicator>
+    <UseDispenser>1</UseDispenser>
+    <StopPosition>12</StopPosition>
+    <Cutter>1</Cutter>
+    <CloudFW>1</CloudFW>
+    <LCD>1</LCD>
+    <Label_Width_Min>4</Label_Width_Min>
+    <Label_Width_Max>220</Label_Width_Max>
+    <Label_Height_Min>3</Label_Height_Min>
+    <Label_Height_Max>2540</Label_Height_Max>
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>1</WiFi>
@@ -4237,7 +4299,6 @@
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>1</WiFi>
-	<Rewinder>1</Rewinder>
 	<BuiltInTTF>1</BuiltInTTF>
   </PrinterModel>
   <PrinterModel ID="DT200L+">
@@ -4294,7 +4355,6 @@
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>1</WiFi>
-	<Rewinder>1</Rewinder>
 	<BuiltInTTF>1</BuiltInTTF>
   </PrinterModel>
   <PrinterModel ID="DT200iL+">
