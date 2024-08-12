@@ -2192,6 +2192,114 @@
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>2</WiFi>
   </PrinterModel>
+  <PrinterModel ID="PE200">
+    <Resolution>203</Resolution>
+    <ResolutionDefault>203</ResolutionDefault>
+    <Darkness>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</Darkness>
+    <DarknessDefault>8</DarknessDefault>
+    <Speed>2,3,4,5,6</Speed>
+    <SpeedDefault>3</SpeedDefault>
+    <USB>1</USB>
+    <COM>1</COM>
+    <Network>1</Network>
+    <LPT>0</LPT>
+    <Driver>1</Driver>
+    <PrinterMode>0</PrinterMode>
+    <UseApplicator>0</UseApplicator>
+    <UseDispenser>0</UseDispenser>
+    <StopPosition>18</StopPosition>
+    <Cutter>1</Cutter>
+    <CloudFW>1</CloudFW>
+    <LCD>0</LCD>
+    <Label_Width_Min>5</Label_Width_Min>
+    <Label_Width_Max>54</Label_Width_Max>
+    <Label_Height_Min>3</Label_Height_Min>
+    <Label_Height_Max>1727</Label_Height_Max>
+    <Label_Margin_L>0</Label_Margin_L>
+    <Label_Margin_T>0</Label_Margin_T>
+	<Rewinder>1</Rewinder>
+  </PrinterModel>
+  <PrinterModel ID="PE230">
+    <Resolution>300</Resolution>
+    <ResolutionDefault>300</ResolutionDefault>
+    <Darkness>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</Darkness>
+    <DarknessDefault>8</DarknessDefault>
+    <Speed>2,3,4</Speed>
+    <SpeedDefault>3</SpeedDefault>
+    <USB>1</USB>
+    <COM>1</COM>
+    <Network>1</Network>
+    <LPT>0</LPT>
+    <Driver>1</Driver>
+    <PrinterMode>0</PrinterMode>
+    <UseApplicator>0</UseApplicator>
+    <UseDispenser>0</UseDispenser>
+    <StopPosition>18</StopPosition>
+    <Cutter>1</Cutter>
+    <CloudFW>1</CloudFW>
+    <LCD>0</LCD>
+    <Label_Width_Min>5</Label_Width_Min>
+    <Label_Width_Max>57</Label_Width_Max>
+    <Label_Height_Min>3</Label_Height_Min>
+    <Label_Height_Max>762</Label_Height_Max>
+    <Label_Margin_L>0</Label_Margin_L>
+    <Label_Margin_T>0</Label_Margin_T>
+	<Rewinder>1</Rewinder>
+  </PrinterModel>
+  <PrinterModel ID="PE300">
+    <Resolution>203</Resolution>
+    <ResolutionDefault>203</ResolutionDefault>
+    <Darkness>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</Darkness>
+    <DarknessDefault>8</DarknessDefault>
+    <Speed>2,3,4,5,6</Speed>
+    <SpeedDefault>3</SpeedDefault>
+    <USB>1</USB>
+    <COM>1</COM>
+    <Network>1</Network>
+    <LPT>0</LPT>
+    <Driver>1</Driver>
+    <PrinterMode>0</PrinterMode>
+    <UseApplicator>0</UseApplicator>
+    <UseDispenser>0</UseDispenser>
+    <StopPosition>18</StopPosition>
+    <Cutter>1</Cutter>
+    <CloudFW>1</CloudFW>
+    <LCD>0</LCD>
+    <Label_Width_Min>5</Label_Width_Min>
+    <Label_Width_Max>80</Label_Width_Max>
+    <Label_Height_Min>3</Label_Height_Min>
+    <Label_Height_Max>1727</Label_Height_Max>
+    <Label_Margin_L>0</Label_Margin_L>
+    <Label_Margin_T>0</Label_Margin_T>
+	<Rewinder>1</Rewinder>
+  </PrinterModel>
+  <PrinterModel ID="PE330">
+    <Resolution>300</Resolution>
+    <ResolutionDefault>300</ResolutionDefault>
+    <Darkness>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</Darkness>
+    <DarknessDefault>8</DarknessDefault>
+    <Speed>2,3,4</Speed>
+    <SpeedDefault>3</SpeedDefault>
+    <USB>1</USB>
+    <COM>1</COM>
+    <Network>1</Network>
+    <LPT>0</LPT>
+    <Driver>1</Driver>
+    <PrinterMode>0</PrinterMode>
+    <UseApplicator>0</UseApplicator>
+    <UseDispenser>0</UseDispenser>
+    <StopPosition>18</StopPosition>
+    <Cutter>1</Cutter>
+    <CloudFW>1</CloudFW>
+    <LCD>0</LCD>
+    <Label_Width_Min>5</Label_Width_Min>
+    <Label_Width_Max>81</Label_Width_Max>
+    <Label_Height_Min>3</Label_Height_Min>
+    <Label_Height_Max>762</Label_Height_Max>
+    <Label_Margin_L>0</Label_Margin_L>
+    <Label_Margin_T>0</Label_Margin_T>
+	<Rewinder>1</Rewinder>
+  </PrinterModel>
   <PrinterModel ID="RT200">
     <Resolution>203</Resolution>
     <ResolutionDefault>203</ResolutionDefault>
@@ -2326,33 +2434,6 @@
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
   </PrinterModel>
-  <!--<PrinterModel ID="RT700W"> DEL 2015/08/13 目前無此機型
-    <Resolution>203</Resolution>
-    <ResolutionDefault>203</ResolutionDefault>
-    <Darkness>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</Darkness>
-    <DarknessDefault>8</DarknessDefault>
-    <Speed>2,3,4,5</Speed>
-    <SpeedDefault>4</SpeedDefault>
-    <USB>1</USB>
-    <COM>1</COM>
-    <Network>1</Network>
-    <LPT>1</LPT>
-    <Driver>1</Driver>
-    <PrinterMode>1</PrinterMode>
-    <UseApplicator>0</UseApplicator>
-    <UseDispenser>1</UseDispenser>
-    <StopPosition>16</StopPosition>
-    <Cutter>1</Cutter>
-    <CloudFW>1</CloudFW>
-    <LCD>0</LCD>
-    <Label_Width_Min>4</Label_Width_Min>
-    <Label_Width_Max>108</Label_Width_Max>
-    <Label_Height_Min>3</Label_Height_Min>
-    <Label_Height_Max>1727</Label_Height_Max>
-    <Label_Margin_L>0</Label_Margin_L>
-    <Label_Margin_T>0</Label_Margin_T>
-    <WiFi>1</WiFi>
-  </PrinterModel>-->
   <PrinterModel ID="RT700i">
     <Resolution>203</Resolution>
     <ResolutionDefault>203</ResolutionDefault>
