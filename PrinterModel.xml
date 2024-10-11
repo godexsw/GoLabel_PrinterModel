@@ -27,6 +27,7 @@
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>1</WiFi>
     <Stop>1</Stop>
+	<Linerless>1</Linerless>
   </PrinterModel>
   <PrinterModel ID="BP520L">
     <Resolution>203</Resolution>
@@ -55,6 +56,7 @@
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>1</WiFi>
     <Stop>1</Stop>
+	<Linerless>1</Linerless>
   </PrinterModel>
   <PrinterModel ID="BP530L">
     <Resolution>300</Resolution>
@@ -83,6 +85,7 @@
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>1</WiFi>
     <Stop>1</Stop>
+	<Linerless>1</Linerless>
   </PrinterModel>
   <PrinterModel ID="BP500L(DT)">
     <Resolution>203</Resolution>
@@ -111,6 +114,7 @@
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>1</WiFi>
     <Stop>1</Stop>
+	<Linerless>1</Linerless>
   </PrinterModel>
   <PrinterModel ID="BP520L(DT)">
     <Resolution>203</Resolution>
@@ -139,6 +143,7 @@
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>1</WiFi>
     <Stop>1</Stop>
+	<Linerless>1</Linerless>
   </PrinterModel>
   <PrinterModel ID="DT2">
     <Resolution>203</Resolution>
@@ -245,6 +250,7 @@
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>1</WiFi>
+	<Linerless>1</Linerless>
   </PrinterModel>
   <PrinterModel ID="DT200i">
     <Resolution>203</Resolution>
@@ -299,6 +305,7 @@
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>1</WiFi>
+	<Linerless>1</Linerless>
   </PrinterModel>
   <PrinterModel ID="DT230">
     <Resolution>300</Resolution>
@@ -353,6 +360,7 @@
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>1</WiFi>
+	<Linerless>1</Linerless>
   </PrinterModel>
   <PrinterModel ID="DT230i">
     <Resolution>300</Resolution>
@@ -407,6 +415,7 @@
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>1</WiFi>
+	<Linerless>1</Linerless>
   </PrinterModel>
   <PrinterModel ID="DT4">
     <Resolution>203</Resolution>
@@ -459,6 +468,7 @@
     <Label_Height_Max>1727</Label_Height_Max>
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
+	<Linerless>1</Linerless>
   </PrinterModel>
   <PrinterModel ID="DT4L (300 dpi)">
     <Resolution>300</Resolution>
@@ -485,6 +495,7 @@
     <Label_Height_Max>1727</Label_Height_Max>
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
+	<Linerless>1</Linerless>
   </PrinterModel>
   <PrinterModel ID="DT4x">
     <Resolution>203</Resolution>
@@ -2514,6 +2525,7 @@
     <Label_Height_Max>10160</Label_Height_Max>
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
+	<WiFi>1</WiFi>
 	<BuiltInTTF>1</BuiltInTTF>
   </PrinterModel>
   <PrinterModel ID="RT700iW">
@@ -2675,6 +2687,7 @@
     <Label_Height_Max>8890</Label_Height_Max>
     <Label_Margin_L>0</Label_Margin_L>
     <Label_Margin_T>0</Label_Margin_T>
+	<WiFi>1</WiFi>
 	<BuiltInTTF>1</BuiltInTTF>
   </PrinterModel>
   <PrinterModel ID="RT730iW">
@@ -4409,6 +4422,7 @@
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>1</WiFi>
 	<BuiltInTTF>1</BuiltInTTF>
+	<Linerless>1</Linerless>
   </PrinterModel>
   <PrinterModel ID="DT200i+">
     <Resolution>203</Resolution>
@@ -4465,6 +4479,7 @@
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>1</WiFi>
 	<BuiltInTTF>1</BuiltInTTF>
+	<Linerless>1</Linerless>
   </PrinterModel>
   <PrinterModel ID="DT230+">
     <Resolution>300</Resolution>
@@ -4579,6 +4594,7 @@
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>1</WiFi>
 	<BuiltInTTF>1</BuiltInTTF>
+	<Linerless>1</Linerless>
   </PrinterModel>
   <PrinterModel ID="MX30+">
     <Resolution>203</Resolution>
@@ -4663,6 +4679,7 @@
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>2</WiFi>
 	<BuiltInTTF>1</BuiltInTTF>
+	<Linerless>1</Linerless>
   </PrinterModel>
   <PrinterModel ID="MX30L+(L)">
     <Resolution>203</Resolution>
@@ -4691,5 +4708,6 @@
     <Label_Margin_T>0</Label_Margin_T>
     <WiFi>2</WiFi>
 	<BuiltInTTF>1</BuiltInTTF>
+	<Linerless>1</Linerless>
   </PrinterModel>
 </PrinterModelList>
